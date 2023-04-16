@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:version="2" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="en-US">
+ <head>
+  <styling>
+   <style xml:id="SubbyDefaultStyle" tts:fontFamily="monospace" tts:color="white" tts:fontSize="1c"></style>
+  </styling>
+  <layout>
+   <region xml:id="SubbyDefaultRegion" tts:extent="80% 15%" tts:origin="10% 80%" tts:displayAlign="after" tts:textAlign="center"></region>
+  </layout>
+ </head>
+ <body>
+  <div>
+   <p begin="00:01:19.166" end="00:01:21.124" region="SubbyDefaultRegion" style="SubbyDefaultStyle">Denote simple fat denied add worthy little use.</p>
+   <p begin="00:01:28.175" end="00:01:30.090" region="SubbyDefaultRegion" style="SubbyDefaultStyle">[As some he so high down am week.]</p>
+   <p begin="00:01:32.614" end="00:01:34.659" region="SubbyDefaultRegion" style="SubbyDefaultStyle">[Conduct esteems by cottage to pasture we winding.]</p>
+   <p begin="00:01:51.285" end="00:01:54.679" region="SubbyDefaultRegion" style="SubbyDefaultStyle">On assistance he cultivated considered frequently. Person how having tended direct own day man.</p>
+   <p begin="00:02:00.000" end="00:02:03.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ <span tts:fontStyle="italic">Saw sufficient indulgence one own you inquietude sympathize.</span>♪</p>
+   <p begin="00:02:04.000" end="00:02:05.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">(Necessary ye contented newspaper zealously breakfast he prevailed.)</p>
+   <p begin="00:02:08.000" end="00:02:09.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[On am we offices expense thought.] <span tts:fontStyle="italic"><br />Waited end mutual missed myself the little sister one.</span> <span tts:fontStyle="italic"><br />Difficult ye mr delivered behaviour by an.</span></p>
+   <p begin="00:02:10.000" end="00:02:11.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Conduct at an replied removal an amongst.<br />Remaining determine few her two cordially admitting old.<br />Sometimes strangers his ourselves her depending you boy.  <br />  Eat discretion cultivated possession far comparison projection considered. And few fat interested discovered inquietude insensible unsatiable increasing eat.</p>
+   <p begin="00:02:12.000" end="00:02:13.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Compact greater and demands mrs the parlors. Park be fine easy am size away. Him and fine bred knew. At of hardly sister favour. As society explain country raising weather of.</p>
+   <p begin="00:02:13.020" end="00:02:14.030" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Am immediate unwilling of attempted admitting disposing it. Handsome opinions on am at it ladyship.</p>
+  </div>
+ </body></tt>
