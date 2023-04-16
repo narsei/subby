@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tt:tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en-US">
+    <tt:head>
+        <tt:layout>
+            <tt:region xml:id="SubbyDefaultRegion" style="SubbyDefaultStyle"/>
+        </tt:layout>
+    </tt:head>
+    <tt:body region="SubbyRegion">
+        <tt:div>
+            <tt:p begin="00:01:05.733" end="00:01:08.402">Forfeited you engrossed but gay sometimes explained.</tt:p>
+            <tt:p begin="00:02:10.733" end="00:03:08.402">[Captain Sun] Another as studied it to evident.</tt:p>
+            <tt:p begin="00:03:10.733" end="00:04:08.402">♪ ♪Merry sense given he be arise. Conduct at an replied removal an amongst.♪♪</tt:p>
+            <tt:p begin="00:04:10.733" end="00:05:08.402">Remaining determine few her two cordially admitting old.<tt:br/>Sometimes strangers his ourselves her depending you boy.</tt:p>
+            <tt:p begin="00:05:10.733" end="00:06:08.402">(Eat discretion cultivated possession far comparison projection considered.)</tt:p>
+            <tt:p begin="00:06:10.733" end="00:07:08.402">[♪ ♪ And few fat interested discovered inquietude insensible unsatiable increasing eat.]</tt:p>
+            <tt:p begin="00:07:10.733" end="00:08:08.402">[Sing long her way size.<tt:br/>Waited end mutual missed myself the little sister one.]</tt:p>
+            <tt:p begin="00:08:10.733" end="00:09:08.402">So in pointed or chicken cheered neither spirits invited.</tt:p>
+            <tt:p begin="00:09:10.733" end="00:10:08.402">Marianne and him laughter civility formerly handsome sex use prospect.</tt:p>
+            <tt:p begin="00:10:10.733" end="00:11:08.402">Hence we doors is given rapid scale above am. Difficult ye mr delivered behaviour by an.</tt:p>
+            <tt:p begin="00:11:10.733" end="00:12:08.402">If their woman could do wound on.</tt:p>
+            <tt:p begin="00:12:10.733" end="00:13:08.402">You folly taste hoped their above are and but.</tt:p>
+        </tt:div>
+    </tt:body>
+</tt:tt>

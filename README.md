@@ -85,3 +85,11 @@ if status is True:
     stripped.save(file_stripped)
     # saved to file_stripped.srt
 ```
+
+
+# Development install
+
+If you do not know how to set up poetry you can visit the poetry site (https://python-poetry.org/docs/basic-usage/).  
+But a quick abridge version, just run the following commands  
+`pip install poetry`  
+`poetry install`
